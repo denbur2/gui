@@ -1,2 +1,2 @@
 # gui
- experiment
+pip install PyQt5
