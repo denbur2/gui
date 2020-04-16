@@ -8,6 +8,8 @@ w = QWidget()
 w.setGeometry(50,50,500,500)
 w.setWindowTitle("my Gui")
 w.setWindowIcon(QIcon("b.jpg"))
+buttonBox = QtWidgets.QDialogButtonBox(Dialog)
+
 
 
 
